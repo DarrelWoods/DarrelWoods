@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarrelWoods
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, R, and data analytic basics.
+- 🌱 I’m currently learning SQL, R, and data analysis.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
