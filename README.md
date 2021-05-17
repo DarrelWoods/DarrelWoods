@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DarrelWoods
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL, R, and data analysis.
+- 👀 I’m interested in Data Analysis and broadening my skillsets.
+- 🌱 I’m currently learning SQL, R, and what it takes to become a data analyst.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Darrelwoods13@gmail.com
 
 <!---
 DarrelWoods/DarrelWoods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
