@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarrelWoods
-- 👀 I’m interested in Data Analysis and broadening my skillsets.
-- 🌱 I’m currently learning SQL, R, and what it takes to become a data analyst.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning SQL, Python, and what it takes to become a data analyst.
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Darrelwoods13@gmail.com
 
 <!---
