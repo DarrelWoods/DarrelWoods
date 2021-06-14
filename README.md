@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarrelWoods
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning SQL, Python, and what it takes to become a data analyst.
+- 🌱 I’m currently learning SQL, Python, and and other analytical technologies.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Darrelwoods13@gmail.com
 
